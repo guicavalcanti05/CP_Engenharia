@@ -5,9 +5,9 @@ Este repositório contém materiais relacionados ao checkpoint de Engenharia de 
 
 ## Conteúdo
 
-- `Arquivo/`: Este diretório contém o arquivo da apresentação utilizada durante o checkpoint.
-- `exemplos/`: Aqui você encontrará exemplos práticos relacionados aos conceitos apresentados, incluindo exemplos de elicitação de requisitos e uso do Git.
-- `exercicios/`: Contém exercícios para prática individual ou em grupo. Os exercícios são projetados para reforçar o entendimento dos conceitos discutidos.
+- `Arquivo`: Este diretório contém o arquivo da apresentação utilizada durante o checkpoint.
+- `exemplos`: Aqui você encontrará exemplos práticos relacionados aos conceitos apresentados, incluindo exemplos de elicitação de requisitos e uso do Git.
+- `exercicios`: Contém exercícios para prática individual ou em grupo. Os exercícios são projetados para reforçar o entendimento dos conceitos discutidos.
 
 ## Como Utilizar
 
